@@ -63,7 +63,7 @@
 
 奖金到账后，造梦者需向 DreamField 提交一份 CSV 名单（DreamField UID + 应充 token 数），DreamField 才能批量代充到你的账户。**未登记 UID 的参与者无法收到 token**。
 
-📧 **登记邮箱**：[填造梦者邮箱]
+📧 **登记邮箱**：seedpool@163.com
 📋 **邮件标题**：`DreamSeed 众筹参与登记 - <你的 GitHub 或昵称>`
 📝 **邮件内容必填**：
 - DreamField 注册手机号/邮箱（脱敏即可，如 `138****1234`）
@@ -130,6 +130,6 @@
 **造梦者**：weisparrow
 **仓库**：https://github.com/weisparrow/dreamseed-pool
 **DreamField 注册账号**：wei****@163.com
-**联系邮箱**：[待填]
+**联系邮箱**：seedpool@163.com
 **公示日期**：2026-05-26
 **版本**：v1.3
