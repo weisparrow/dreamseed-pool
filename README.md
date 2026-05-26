@@ -63,8 +63,11 @@
 ### Step 1 · 在 DreamField 上支持本仓库
 
 1. 注册/登录 [DreamField](https://www.dreamfield.top)
-2. 在大赛活动页搜索本仓库 `dreamseed-pool` 并 **绑定为助梦作品**
-3. 使用 DreamField AI 算力 → 自动生产种子 → 自动投放给本仓库
+2. 进入 **DreamSeed 大赛活动页**,在作品列表里找到 `dreamseed-pool`,点右侧 **「绑定」** 按钮:
+
+   ![点击「绑定」按钮支持 dreamseed-pool](./docs/images/binding-button.png)
+
+3. 绑定成功后,使用 DreamField AI 算力 → 自动生产种子 → 自动投放给本仓库
 
 ### Step 2 · 邮件登记 UID 与收件邮箱（用于后期发放兑换码）
 
