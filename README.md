@@ -27,6 +27,8 @@
 > **DreamSeed 种梦计划 — AI 创造者大赛参赛作品 + 公开众筹分奖项目**
 
 > 🔥 **实时战报**(2026-05-27 更新):本仓库当前 **种梦榜第 #1 名 / 28 队**,所有已绑定本仓库的助梦者今日享受 **算力调用 6 折**(60% 调用价)——**支持本项目就是直接给自己省钱**。
+>
+> ⭐ **绑定后顺手点 Star** → Star 数=种梦榜排名 → 直接保住 6 折档(对你免费,对所有助梦者都受益)。[点 Star](https://github.com/weisparrow/dreamseed-pool)
 > ![DreamField 当前榜一截图](./docs/images/ranking-snapshot.png)
 
 本项目是 [DreamField](https://www.dreamfield.top) 主办的 **DreamSeed 种梦计划 — AI 创造者大赛**（2026-05-26 至 2026-11-26）参赛仓库。
@@ -71,6 +73,18 @@
    ![点击「绑定」按钮支持 dreamseed-pool](./docs/images/binding-button.png)
 
 3. 绑定成功后,使用 DreamField AI 算力 → 自动生产种子 → 自动投放给本仓库
+
+### Step 1.5 · 顺手点个 Star ⭐(对你 0 成本,对本仓库直接涨排名)
+
+种梦榜排名 = **GitHub Star 数**。你绑定后顺手在本页右上角点 ⭐ Star,本仓库排名上去了——**所有助梦者(包括你自己)的折扣档**就跟着上去了:
+
+- 当前 Top 20% → **6 折**
+- 掉到 Next 30% → 7 折(每天多花 10%)
+- 掉到 Remaining 50% → 8 折(每天多花 20%)
+
+> 💡 **点 Star 比投种子更直接**:种子只影响星耀榜曝光,Star 才是种梦榜排名 → 直接决定折扣档。绑定+点 Star 是组合技,缺一不可。
+
+[👉 点这里给本仓库点 Star](https://github.com/weisparrow/dreamseed-pool)(右上角 ⭐ 按钮)
 
 ### Step 2 · 邮件登记 UID 与收件邮箱（用于后期发放兑换码）
 
