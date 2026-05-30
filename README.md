@@ -68,14 +68,9 @@
 ### Step 1 · 在 DreamField 上支持本仓库
 
 1. 注册/登录 [DreamField](https://www.dreamfield.top)
-2. 顶部导航栏点 **「种梦计划」** → 左侧切到 **「榜单」** → 在卡片里找到 `dreamseed-pool`,点卡片右下角 **「绑定」** 按钮:
+2. 进入 **DreamSeed 大赛活动页**,在作品列表里找到 `dreamseed-pool`,点右侧 **「绑定」** 按钮:
 
-   ![在「种梦计划」→「榜单」里找到 dreamseed-pool,点右下角「绑定」](./docs/images/binding-button.png)
-
-   > 💡 按钮状态说明:
-   > - **「绑定」** = 还没绑过,直接点
-   > - **「改绑」** = 之前绑了别的仓库,点这个改绑到 `dreamseed-pool`(每人同时只能绑 1 个)
-   > - **「已绑定」**(高亮) = 你已经绑过本仓库,无需重复操作
+   ![点击「绑定」按钮支持 dreamseed-pool](./docs/images/binding-button.png)
 
 3. 绑定成功后,使用 DreamField AI 算力 → 自动生产种子 → 自动投放给本仓库
 
